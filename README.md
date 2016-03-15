@@ -1,16 +1,12 @@
-# hello-world
+hello-world program
+by: Jacob Hefley
 
-#### basic intro hello-world application
+purpose: prints hello world to the console/terminal
 
-#### by: Jacob Hefley
+requirements: none
 
-## prints hello world to the console/terminal
+execute in terminal/console
 
-## requirements: none
+known bugs: none
 
-#### execute in terminal/console
-
-## known bugs: none
-
-### Licensed under GPL 
-first repo test, getting back into github
+Licensed under MIT 
